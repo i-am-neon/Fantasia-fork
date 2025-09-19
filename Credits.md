@@ -51,23 +51,14 @@ Any icons not listed below are taken from the base game, see [Unciv credits](htt
 * Adamantium: [Can](https://thenounproject.com/term/can/708971/) by Nick Bluth
 * Amber: [Crystal](https://thenounproject.com/icon/crystal-1440050/) by Monjin Friends
 * Cocoa: [chocolate bar](https://thenounproject.com/icon/chocolate-bar-1596194/) by parkjisun. The original work has been modified
-* Coffee: [coffee bag](https://thenounproject.com/icon/coffee-bag-4548696/) by ToZIcon
-* Corn: [Corn](https://thenounproject.com/icon/corn-1248249/) by TUTUK ISTUNINGRUM. The original work has been modified
-* Eggs: [Eggs](https://thenounproject.com/icon/eggs-1119369/) by Danil Polshin
 * Gu: [Caterpillar](https://thenounproject.com/icon/caterpillar-1019114/) by Bakunetsu Kaito
-* Honey: [honey](https://thenounproject.com/icon/honey-4591385/) by Sumit Saengthong
-* Jade: [Jade](https://github.com/Ravignir/RekMOD/tree/main/Images/ResourceIcons/Jade.png)
 * Kyber: [Crystal](https://thenounproject.com/icon/crystal-1047386/) by Monjin Friends
-* Leyline: [Diamond](https://thenounproject.com/icon/diamond-2105049/) by Vectors Market
 * Mammoth: [Mammoth](https://thenounproject.com/icon/mammoth-411126/) by parkjisun
 * Megall: [Shark](https://thenounproject.com/icon/shark-1481710/) by Kick
 * Mithril; [armor](https://thenounproject.com/icon/armor-2873073/) by Template
 * Mutagen: [mutation](https://thenounproject.com/icon/mutation-3757497/) by Kamin Ginkaew, TH
 * Niter: [Niter](https://github.com/Ravignir/LOTR-Unciv/tree/main/Images/ResourceIcons/Niter.png)
-* Obsidian: [Obsidian](logomakr.com/23yhKB) by Cavenir
-* Perfume: [Perfume](https://thenounproject.com/icon/perfume-4557970/) by Rank Sol
 * Rune Stone: [item rune stone](https://thenounproject.com/icon/item-rune-stone-2360138/) by Maxicons
-* Tea: [Tea](https://github.com/Ravignir/RekMOD/tree/main/Images/ResourceIcons/Tea.png)
 
 ## Improvement Icons
 * Beacon of Power: [Lighthouse](https://thenounproject.com/icon/lighthouse-2975494/) by Victoruler. The original work has been modified

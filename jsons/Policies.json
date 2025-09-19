@@ -521,7 +521,7 @@
 			},
 			{
 				"name": "Socialism",
-				"uniques": ["[-15]% maintenance cost for buildings [in all cities]"],
+				"uniques": ["[-15]% maintenance cost for [all] buildings [in all cities]"],
 				"requires": ["Civil Society"],
 				"row": 2,
 				"column": 3
@@ -571,7 +571,7 @@
 			},
 			{
 				"name": "Fascism",
-				"uniques": ["Quantity of strategic resources produced by the empire +[100]%", 
+				"uniques": ["[+100]% [Strategic] resource production", 
 							"Provides [-1] [Hero Limiter] <hidden from users>",
 							"[+2] Movement <for [Great General] units>"],
 				"requires": ["Populism","Militarism"],

@@ -344,7 +344,7 @@
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
 		"hurryCostModifier": 10,
-		"uniques": ["[+10]% Strength when stacked with [Traon General]", 
+		"uniques": ["[+10]% Strength <when stacked with a [Traon General] unit>", 
 					"Preachable"],
 		"promotions": ["Impetus"],
 		"attackSound": "metalhit",
@@ -588,7 +588,7 @@
 		"strength": 70,
 		"cost": 380,
 		"requiredTech": "Teleportation",
-		"uniques": ["May Paradrop up to [6] tiles from inside friendly territory", 
+		"uniques": ["May Paradrop to [Land] tiles up to [6] tiles away <in [{Friendly} {Land}] tiles>",
 					"No movement cost to pillage", 
 					"Never appears as a Barbarian unit"],
 		"attackSound": "shot"
