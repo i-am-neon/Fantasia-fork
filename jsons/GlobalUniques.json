@@ -1,6 +1,7 @@
 {
 	"name": "Global uniques", 
 	"uniques": [
+"[0] Golden Age progress increased by excess Happiness",
 		"[+150]% Science cost of researching new Technologies",
     "[+150]% Culture cost of adopting new Policies",
          "[-100]% Unhappiness from [Population] [in all cities]",
